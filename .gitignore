@@ -1,0 +1,6 @@
+!.gitignore
+lib/
+project/target/
+target/
+*~
+*.zip
